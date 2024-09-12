@@ -2,5 +2,15 @@
 
 ### Support Vector Machine
 ### Gaussian Process
-### k-means clustering
+### Gaussian Mixture Model
 ### Principal Component Analysis
+
+
+### Install
+seaborn
+sklearn
+scipy
+glob
+astropy
+plotly
+datetime
